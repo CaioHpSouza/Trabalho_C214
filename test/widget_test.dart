@@ -1,6 +1,9 @@
 import 'package:test/test.dart';
 
 void main() {
+
+  print("Hello World\n");
+  
   const salario = 1500.0;
 
   test('Existe salario', () {
