@@ -32,12 +32,12 @@ Link do Site: https://github.com/CaioHpSouza/Trabalho_C214
 ## 🦸 Autores
 
 <table>
-  <tr>   
+  <th>   
     <td align="center"><a href="https://github.com/leo18ss/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56611060?v=4" width="100px;" alt=""/><br /><sub><b>Leonardo Souza</b></sub></a></td>  
-  </tr>
-  <tr> 
+  </th>
+  <th> 
     <td align="center"><a href="https://github.com/CaioHpSouza/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/21149887?v=4" width="100px;" alt=""/><br /><sub><b>Caio Souza</b></sub></a></td>  
-  </tr>
+  </th>
 </table>
 
 ---
