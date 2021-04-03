@@ -22,7 +22,7 @@
 
 ## 💻 Sobre o Trabalho
 
-Trabalho de Engenharia de Software desenvolvido em Flutter para realizarmos teste de unidade. A finalidade foi o desenvolvimento deu um Framework, para aprimorar e praticar os conceitos de teste de unidade.  
+Trabalho de Engenharia de Software desenvolvido em Flutter para realizarmos teste de unidade. A finalidade foi o desenvolvimento de testes de unidade no Framework Flutter, para aprimorar e praticar estes conceitos.  
 
 
 Link do Site: https://github.com/CaioHpSouza/Trabalho_C214
