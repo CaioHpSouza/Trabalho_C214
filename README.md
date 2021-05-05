@@ -26,6 +26,12 @@ Trabalho de Engenharia de Software desenvolvido em Flutter para realizarmos test
 
 Para gerencia de dependencias utilizamos a bliblioteca [Test](https://pub.dev/packages/test) 
 
+## ⚒️ Ferramentas 
+As seguintes ferramentas foram usadas na construção do projeto:
+- [Flutter](https://flutter.dev)
+- [VSCode](https://code.visualstudio.com/)
+- [Travis](https://travis-ci.org) 
+
 # 📲 Como utilizar? 
 
 ## ▶️ Via código fonte
