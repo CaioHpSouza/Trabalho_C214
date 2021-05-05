@@ -4,7 +4,7 @@ void main() {
 
   print("Hello World\n");
   
-  const salario = 1500.0;
+  const salario = 100.0; //final
 
   test('Existe salario', () {
     assert(salario != null && salario >= 0);
