@@ -58,7 +58,8 @@ $ git clone https://github.com/CaioHpSouza/Trabalho_C214.git
  1. Conecte o dispositivo Android no USB do seu computador.
  2. Entre na pasta na onde se econtra a aplicação.
  3. Rode o comando **flutter install**.
- ```
+
+```
 $ flutter install
 ```
 
