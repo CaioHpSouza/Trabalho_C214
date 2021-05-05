@@ -1,13 +1,18 @@
 <p align="center"> 
+	<img src="https://travis-ci.com/CaioHpSouza/Trabalho_C214.svg?branch=main" alt="Build Status" />
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CaioHpSouza/Trabalho_C214?color=%2304D361">
   
   <a href="https://github.com/CaioHpSouza/Trabalho_C214/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CaioHpSouza/Trabalho_C214">
   </a>
     
+ 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
+   
  
 </p>
+
+
 
 <h4 align="center"> 
 	🚧 Trabalho C214 - Flutter test 🚧
