@@ -26,7 +26,36 @@ Trabalho de Engenharia de Software desenvolvido em Flutter para realizarmos test
 
 Para gerencia de dependencias utilizamos a bliblioteca [Test](https://pub.dev/packages/test) 
 
-  
+# 📲 Como utilizar? 
+
+## ▶️ Via código fonte
+
+### Requisitos
+ - Visual studio code ou Android Studio
+ - Flutter SDK
+ - Java JDK (Versão 8)
+ - Android SDK
+ 
+### Verificação
+- Para verificar se tudo está configurado corretamente, rode o seguinte comando:
+```
+$ flutter doc
+```
+
+### Clone
+- Clone este repositório na sua máquina local
+```
+$ git clone https://github.com/CaioHpSouza/Trabalho_C214.git
+```
+
+### Passos
+ 1. Conecte o dispositivo Android no USB do seu computador.
+ 2. Entre na pasta na onde se econtra a aplicação.
+ 3. Rode o comando **flutter install**.
+ ```
+$ flutter install
+```
+
 ---
 
 ## 🦸 Autores
