@@ -1,4 +1,4 @@
-name: flutter_teste
+name: calculadora
 description: A new Flutter project.
 
 version: 1.0.0+1
@@ -11,12 +11,23 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.0
+  auto_size_text: ^2.1.0
+  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   test: ^1.6.1
+  
 
 flutter:
-
   uses-material-design: true
+
+  assets:
+   - assets/logos/facebook.jpg
+   - assets/logos/google.jpg
+
+fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans.ttf
